@@ -1,0 +1,3 @@
+Password extraction program using dictionary attack
+In order to crack a password you need md5 coded password and a list of possible passwords
+For this experiment I use admin123 password 
